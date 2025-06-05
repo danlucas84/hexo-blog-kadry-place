@@ -105,7 +105,7 @@ deploy:
 
   theme_config:
   menu_title: Home
-  index_cover: C:\Users\DELL\Desktop\nauka\blog\hexo-blog-kadry-place\source\images/kadry2.png
+  index_cover: /hexo-blog/images/IMG_3502.jpg
   twitter_handle:
 
   # Header
