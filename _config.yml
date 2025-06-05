@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Payroll jobsService
+subtitle: 'Kadry i płace ludzkim głosem'
 description: ''
 keywords:
-author: John Doe
+author: jobsService sp. z o.o.
 language: en
 timezone: ''
 
@@ -102,3 +102,30 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+  theme_config:
+  menu_title: Home
+  index_cover: /hexo-blog/images/IMG_3502.jpg
+  twitter_handle:
+
+  # Header
+  menu:
+    Home: /
+    Contact: /Kontakt/
+    Github:
+      url: https://github.com/piecioshka/
+      icon: github
+    Twitter:
+      url: https://twitter.com/piecioshka
+      icon: twitter
+    YouTube:
+      url: https://youtube.com/piecioshka
+      icon: youtube
+    Facebook:
+      url: https://facebook.com/piecioshka.dev
+      icon: facebook
+
+  comments:
+    disqus_shortname:
+
+  google_analytics:
