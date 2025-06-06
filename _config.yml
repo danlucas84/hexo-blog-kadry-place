@@ -109,13 +109,6 @@ deploy:
   twitter_handle:
   twitter_url: https://twitter.com/piecioshka
   facebook_url: https://facebook.com/piecioshka.dev 
-  menu:
-    Home: /
-    O nas: /o nas
-    Archiwum: /archiwum
-    Kontakt: /kontakt
-    Tagi: /tagi
-    Kategorie: /kategorie
     Github:
     url: https://github.com/danlucas84/hexo-blog-kadry-place
     icon: github
