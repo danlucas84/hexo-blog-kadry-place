@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+title: kontakt
 ---
 
 If you want to contact me, use Twitter platform.

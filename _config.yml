@@ -107,8 +107,8 @@ deploy:
   menu_title: Home
   index_cover: /hexo-blog/images/IMG_3502.jpg
   twitter_handle:
-
-  # Header
+  twitter_url: https://twitter.com/piecioshka
+  facebook_url: https://facebook.com/piecioshka.dev 
   menu:
     Home: /
     O nas: /o nas
