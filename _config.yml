@@ -111,7 +111,7 @@ deploy:
   # Header
   menu:
     Home: /
-    O nas: O nas
+    O nas: /o nas
     Archiwum: /archiwum
     Kontakt: /kontakt
     Tagi: /tagi

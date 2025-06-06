@@ -1,0 +1,6 @@
+---
+title: Kontakt
+---
+
+If you want to contact me, use Twitter platform.
+My handle is [@piecioshka](https://twitter.com/piecioshka)
