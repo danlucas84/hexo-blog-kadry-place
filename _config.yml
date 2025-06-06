@@ -111,10 +111,14 @@ deploy:
   # Header
   menu:
     Home: /
-    Contact: /Kontakt/
+    O nas: O nas
+    Archiwum: /archiwum
+    Kontakt: /kontakt
+    Tagi: /tagi
+    Kategorie: /kategorie
     Github:
-      url: https://github.com/piecioshka/
-      icon: github
+    url: https://github.com/danlucas84/hexo-blog-kadry-place
+    icon: github
     Twitter:
       url: https://twitter.com/piecioshka
       icon: twitter
