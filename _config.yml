@@ -107,19 +107,19 @@ deploy:
   menu_title: Home
   index_cover: /hexo-blog/images/IMG_3502.jpg
   twitter_handle:
-  twitter_url: https://twitter.com/piecioshka
-  facebook_url: https://facebook.com/piecioshka.dev 
+  
+
     Github:
     url: https://github.com/danlucas84/hexo-blog-kadry-place
     icon: github
     Twitter:
-      url: https://twitter.com/piecioshka
+      url:
       icon: twitter
     YouTube:
-      url: https://youtube.com/piecioshka
+      url: https://youtube.com
       icon: youtube
     Facebook:
-      url: https://facebook.com/piecioshka.dev
+      url: https://facebook.com/
       icon: facebook
 
   comments:
