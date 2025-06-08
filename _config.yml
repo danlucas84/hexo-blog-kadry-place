@@ -102,7 +102,32 @@ theme: clean-blog
 deploy:
   type: ''
 
-  theme_config:
-  menu_title: Home
-  index_cover: /hexo-blog/images/IMG_3502.jpg
-  default_post_title: Untitled
+theme_config:
+menu_title: Home
+index_cover: /hexo-blog/images/IMG_3502.jpg
+default_post_title: Untitled
+
+# Header
+menu:
+    Strona główna: /
+    Kontakt: /kontakt/
+    Github:
+      url: https://github.com
+      icon: github
+    Twitter:
+      url: https://twitter.com
+      icon: twitter
+    YouTube:
+      url: https://youtube.com
+      icon: youtube
+    Facebook:
+      url: https://facebook.com
+      icon: facebook
+    LinkedIn:
+      url: https://linkedin.com
+      icon: linkedin
+      
+comments:
+    disqus_shortname: piecioshka-test
+
+google_analytics:
